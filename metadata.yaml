@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/35621
     wikipedia: http://pt.wikipedia.org/wiki/Ant%C3%B3nio_Patr%C3%ADcio
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32020#Ser-o-inquieto---contos
 gutenberg_bookshelf: PT Contos
 gutenberg_issued: '2010-04-17'
 gutenberg_type: Text
