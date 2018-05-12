@@ -1,0 +1,32 @@
+_repo: Ser-o-inquieto---contos_32020
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Patrício, António
+    alias: Patricio, Antonio
+    birthdate: 1878
+    deathdate: 1930
+    gutenberg_agent_id: '35621'
+    url: http://www.gutenberg.org/2009/agents/35621
+    wikipedia: http://pt.wikipedia.org/wiki/Ant%C3%B3nio_Patr%C3%ADcio
+description: ''
+gutenberg_bookshelf: PT Contos
+gutenberg_issued: '2010-04-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32020'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Short stories, Portuguese'
+- !lcsh 'Fiction'
+tableOfContents: Diálogo com uma águia -- O precoce -- O homem das fontes -- Suze
+  -- O Veiga -- Words...
+title: 'Serão inquieto : contos'
+url: http://www.gutenberg.org/ebooks/32020
